@@ -42,3 +42,6 @@ dist/
 # Feature folders
 train_features/
 test_features/
+
+# md
+plan.md
